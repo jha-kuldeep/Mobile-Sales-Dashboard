@@ -113,7 +113,7 @@ Data Analyst
 **Skills:**
 SQL | Python | Power BI | Pandas | NumPy | Machine Learning | Excel
 
-📫 Connect : www.linkedin.com/in/kuldeep-jha-b3517b316
+📫 Connect on Linkedin : www.linkedin.com/in/kuldeep-jha-b3517b316
 
 
 
